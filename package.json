@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
   "start": "json-server --watch db.json --port 3000"
+    "vercel": "node api/index.js"
   },
   "keywords": [],
   "author": "",
